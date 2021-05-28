@@ -1,0 +1,5 @@
+com\leyou\upload\config\FastClientImporter.class
+com\leyou\upload\service\UploadService.class
+com\leyou\upload\controller\UploadController.class
+com\leyou\upload\config\LeyouCorsFilterConfiguration.class
+com\leyou\LeyouUploadApplication.class

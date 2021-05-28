@@ -1,0 +1,5 @@
+com\leyou\auth\controller\AuthController.class
+com\leyou\LeyouAuthApplication.class
+com\leyou\auth\client\UserClient.class
+com\leyou\auth\service\AuthService.class
+com\leyou\auth\config\JwtProperties.class
